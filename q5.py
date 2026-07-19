@@ -17,19 +17,14 @@ class Car:
 
 # Create Object
 car1 = Car()
-
-# Dispaly Details
 car1.display_details()
 
 # Create Object and Pass Values
 car1 = Car("Toyota", "Prius", 2016)
-
-# Dispaly Details
 car1.display_details()
 
 # Create Object and Pass Values
 car1 = Car("Nissan", "Nissan Ariya", 2020)
-# Dispaly Details
 car1.display_details()
 
 
