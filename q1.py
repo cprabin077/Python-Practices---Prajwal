@@ -1,3 +1,5 @@
+# 1.	Create a Student class with attributes: name, roll, and marks. Display student details using a method.
+
 # Student Class
 
 class Student:

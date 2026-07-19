@@ -1,0 +1,40 @@
+1.	Create a Student class with attributes: name, roll, and marks. Display student details using a method.
+2.	Create a Rectangle class and calculate area and perimeter.
+3.	Create a Bank Account class with methods for deposit, withdraw, and check balance.
+4.	Create an Employee class and calculate annual salary from monthly salary.
+5.	Create a Car class with attributes brand, model, and year. Display car information.
+6.	Create a Book class and display book details using objects.
+7.	Create a Circle class and calculate area and circumference.
+8.	Create a Product class with name, price, and quantity. Calculate total inventory value.
+9.	Create a Laptop class and demonstrate the use of a constructor (_init_).
+10.	Create a Library class that stores and displays book information.
+11.	Find the square root of a user-entered number.
+12.	Calculate the factorial of a given number using the math module.
+13.	Find the GCD of two numbers.
+14.	Round a decimal number upward using ceil().
+15.	Round a decimal number downward using floor().
+16.	Find the absolute value of a negative number using fabs().
+17.	Calculate the area of a circle using math.pi.
+18.	Calculate the value of 2 raised to the power 10 using pow().
+19.	Remove the decimal part from a number using trunc().
+20.	Display the values of math.pi and math.e.
+21.	Generate a random number between 1 and 100.
+22.	Create a dice rolling simulator.
+23.	Create a coin toss program.
+24.	Generate a 4-digit OTP.
+25.	Generate a 6-digit OTP.
+26.	Pick a random student from a list.
+27.	Shuffle a list of names.
+28.	Select 3 unique winners from a list of participants.
+29.	Generate a random password of 8 characters.
+30.	Create a simple lottery winner selection program.
+31.	Display the current date and time.
+32.	Display only the current year.
+33.	Display only the current month.
+34.	Display only the current day.
+35.	Display the current date in DD-MM-YYYY format.
+36.	Display the current time in HH:MM:SS format.
+37.	Find the number of days between two given dates.
+38.	Display the day name for today's date.
+39.	Calculate your age from your birth year.
+40.	Create a digital clock that displays the current time.
