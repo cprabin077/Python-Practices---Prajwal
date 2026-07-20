@@ -12,3 +12,14 @@ for i in range(small, 0, -1):
 
 
 print(f"GCD of {num1} and {num2} = ", gcd)
+
+print("------------"*5)
+# Alternative method (Ecuidean Algorithm)
+
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+
+while num2 != 0:
+    num1, num2 = num2, num1 % num2
+
+print("GCD of two numbers = ", num1)
