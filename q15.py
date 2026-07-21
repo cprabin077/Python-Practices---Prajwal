@@ -4,6 +4,6 @@ import math
 
 num = float(input("Enter a decimal number: "))
 
-result = math.floor(num) # Round upward
+result = math.floor(num) # Round downward i.e  4.5 => 4 & -3.6 => -4
 
-print("Rounded value =", result)
+print("Rounded value =", result) 
